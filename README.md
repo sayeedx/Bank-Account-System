@@ -13,12 +13,16 @@ The Bank Account App is a user-friendly banking application built with JavaFX. I
 ## Diagrams
 
 ### Use Case Diagrams
-- **Diagram #1: Rough Use Case** - Initial depiction of user interactions and functionalities.
-- **Diagram #2: Final UML Use Case** - Detailed user interactions and system functionalities.
+
+- **Diagram #2: Final UML Use Case**
+
+![Final UML Use Case](images/final_uml_use_case.png)  <!-- Add image reference here -->
 
 ### Class Diagrams
-- **Diagram #3: Rough Class** - Preliminary class structure design.
-- **Diagram #4: Final UML Class** - Finalized class diagram with system structure details.
+
+- **Diagram #4: Final UML Class**
+
+![Final UML Class](images/final_uml_class.png)  <!-- Add image reference here -->
 
 ## Design Details
 
@@ -47,3 +51,11 @@ The `Level` class represents different customer tiers (Silver, Gold, Platinum) w
 - [Violet UML Editor](http://alexdp.free.fr/violetumleditor/page.php) - For UML diagram creation.
 - [JavaFX GUI Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBzfXLWLSYVy8EbTdpGbUIG) - Video tutorials for JavaFX.
 - [Toronto Metropolitan University Course Content](https://courses.torontomu.ca/d2l/le/content/839005/viewContent/5644040/View) - Additional course material.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For questions or feedback, please contact [Your Name](mailto:your.email@example.com).
