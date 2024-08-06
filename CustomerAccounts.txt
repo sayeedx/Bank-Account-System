@@ -1,0 +1,4 @@
+guest:123:Customer:15000
+sayeed:password:Customer:5000
+fuz:yeah:Customer:4000
+ahmed:password:Customer:9999
